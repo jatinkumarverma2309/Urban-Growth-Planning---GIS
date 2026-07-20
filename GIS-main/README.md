@@ -41,7 +41,7 @@ GIS/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/saturn-16/GIS.git
+git clone https://github.com/saturn-16/GIS.git](https://github.com/jatinkumarverma2309/Urban-Growth-Planning---GIS.git
 cd GIS
 ```
 
